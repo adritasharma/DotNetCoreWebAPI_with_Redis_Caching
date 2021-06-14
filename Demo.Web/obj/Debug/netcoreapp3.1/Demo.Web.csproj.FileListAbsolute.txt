@@ -135,5 +135,10 @@ C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.Web
 C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.Web\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.Web\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.Web\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.Web\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.Web\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.Web\obj\Debug\netcoreapp3.1\Demo.Web.csproj.CoreCompileInputs.cache
 C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.Web\obj\Debug\netcoreapp3.1\Demo.Web.MvcApplicationPartsAssemblyInfo.cache

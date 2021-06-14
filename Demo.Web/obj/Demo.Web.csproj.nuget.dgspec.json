@@ -54,6 +54,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.7, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             }
           },
           "imports": [
@@ -125,6 +129,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.7, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             }
           },
           "imports": [
@@ -196,6 +204,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.7, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
