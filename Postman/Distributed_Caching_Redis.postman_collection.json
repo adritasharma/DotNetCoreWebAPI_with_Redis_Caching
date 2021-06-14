@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "83a20d1a-9482-4552-aaa8-f21bda5c7a0a",
+		"name": "Distributed_Caching_Redis",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get All ToDos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44364/api/todo",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44364",
+					"path": [
+						"api",
+						"todo"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Clear Cache",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44364/api/todo/clear-cache/_todos",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44364",
+					"path": [
+						"api",
+						"todo",
+						"clear-cache",
+						"_todos"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
