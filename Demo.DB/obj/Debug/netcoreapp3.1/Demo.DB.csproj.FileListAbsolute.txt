@@ -1,0 +1,12 @@
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.DB\bin\Debug\netcoreapp3.1\Demo.DB.deps.json
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.DB\bin\Debug\netcoreapp3.1\Demo.DB.dll
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.DB\obj\Debug\netcoreapp3.1\Demo.DB.csprojAssemblyReference.cache
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.DB\obj\Debug\netcoreapp3.1\Demo.DB.AssemblyInfoInputs.cache
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.DB\obj\Debug\netcoreapp3.1\Demo.DB.AssemblyInfo.cs
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.DB\bin\Debug\netcoreapp3.1\Demo.DB.pdb
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.DB\obj\Debug\netcoreapp3.1\Demo.DB.dll
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.DB\obj\Debug\netcoreapp3.1\Demo.DB.pdb
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.DB\bin\Debug\netcoreapp3.1\Demo.DB.runtimeconfig.json
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.DB\bin\Debug\netcoreapp3.1\Demo.DB.runtimeconfig.dev.json
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.DB\obj\Debug\netcoreapp3.1\Demo.DB.csproj.CoreCompileInputs.cache
+C:\Adrita\Workspace\GitHub\Projects\DotNetCoreWebAPI_with_Redis_Caching\Demo.DB\obj\Debug\netcoreapp3.1\Demo.DB.genruntimeconfig.cache
