@@ -20,4 +20,4 @@ docker run --name adrita_redis_container -p 5003:6379 -d redis
 docker start adrita_redis_container
 
 
-<a hreh="https://www.learmoreseekmore.com/2020/11/dotnetcore-api-redis-cache.html"> Reference </a>
+<a href="https://www.learmoreseekmore.com/2020/11/dotnetcore-api-redis-cache.html" target="_blank"> Reference </a>
