@@ -13,11 +13,11 @@ docker pull redis
 
 ### Create Redis Container
 
-docker run --name adrita_redis_container -p 5003:6379 -d redis
+docker run --name demo_redis_container -p 5003:6379 -d redis
 
 ### Start Redis Container
 
-docker start adrita_redis_container
+docker start demo_redis_container
 
 
 <a href="https://www.learmoreseekmore.com/2020/11/dotnetcore-api-redis-cache.html" target="_blank"> Reference </a>
